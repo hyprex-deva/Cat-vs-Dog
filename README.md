@@ -3,3 +3,6 @@ In this project, we are going to use Convolutional Neural Networks (CNNs) to cla
 
 We will be using the Cats vs Dogs dataset, which contains 12,500 images of cats and dogs respectively. The dataset is divided into 2 sets: a training set with 10,000 images, and a test set with 2,500 images.<br>
 **Dataset from Kaggle :** [Click Here](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
+<br>
+<br>
+*Note : The Size of the Dataset is around 1GB so didn't upload it here*
